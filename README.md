@@ -12,21 +12,8 @@
  This work is developed as part of academic learning to gain hands-on     
  experience in Machine Learning and data analysis. 
  
-## 👤 Student Information
 
 ```sql
-+----------------------+----------------------------------+
-| Field                | Details                          |
-+----------------------+----------------------------------+
-| Name                 | Raghav Dimri                     |
-| Roll No              | 2K24CSUN01122                    |
-| Class                | B.Tech CSE-4B (2nd Year)         |
-| College              | Manav Rachna University          |
-| Subject              | Machine Learning                 |
-| Project              | ML Algorithms Notebook           |
-| Course Code          | CSH217C                          |
-+----------------------+----------------------------------+
-```
 ## 👤 Structure
 
 ```sql
