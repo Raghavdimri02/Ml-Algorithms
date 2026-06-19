@@ -13,7 +13,6 @@
  experience in Machine Learning and data analysis. 
  
 
-```sql
 ## 👤 Structure
 
 ```sql
@@ -46,7 +45,6 @@ ML-Algorithms/
 └── .gitignore
 
 ```
-```sql
 
 ⚙️ Technologies Used
 ```sql
@@ -60,7 +58,6 @@ XGBoost
 Jupyter Notebook
 
 ```
-```sql
 🎯 Objectives
 ```sql
 
@@ -72,8 +69,6 @@ Jupyter Notebook
 - Evaluate model performance using various metrics
 
 ```
-```sql
-
 📌 Notebooks Included
 ```sql
 
@@ -123,7 +118,6 @@ XGBoost
   2. High-performance prediction models
 
 ```
-```sql
 📂 Datasets Used
 ```sql
 
@@ -142,7 +136,6 @@ Titanic Dataset (titanic.csv)
 Diabetes Dataset
   → Diabetes Prediction Model
 ```
-```sql
 📊 Machine Learning Algorithms Covered
 ```sql
 ✔ Linear Regression
@@ -155,5 +148,4 @@ Diabetes Dataset
 ✔ AdaBoost
 ✔ Gradient Boosting
 ✔ XGBoost
-```
 ```
